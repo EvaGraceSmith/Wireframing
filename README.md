@@ -1,2 +1,2 @@
-# Wireframing
-using grid and flex to build layouts
+# salmon-cookies
+Helping a friend with a new business venture.
