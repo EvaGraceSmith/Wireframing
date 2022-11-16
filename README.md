@@ -1,2 +1,3 @@
-# salmon-cookies
-Helping a friend with a new business venture.
+# Wireframe
+
+To grid or not to grid, that is the question,
