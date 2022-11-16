@@ -1,0 +1,21 @@
+header {
+    background-color: aqua;
+    color: aliceblue;
+    padding: 30px;
+       
+}
+
+.nav-items {
+    
+padding: 15px;
+background-color: rgb(214, 214, 244);
+color: aliceblue;
+
+    display:inline-block
+
+}
+
+a {display:inline-block;
+padding: 10px;
+background-color: rgb(214, 214, 252);
+color: aliceblue;}
